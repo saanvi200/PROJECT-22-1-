@@ -1,0 +1,2 @@
+groundObj.display();
+leftSide.display();
